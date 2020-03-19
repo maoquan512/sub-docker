@@ -1,0 +1,9 @@
+
+{
+  "name": "sub-docker",
+  "description": "deploy sub-docker to Heroku.",
+  "keywords": ["sub-docker"],
+  "website": "https://github.com/maoquan512/sub-docker",
+  "repository": "https://github.com/maoquan512/sub-docker",
+  "stack": "container"
+ }
